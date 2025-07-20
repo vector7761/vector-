@@ -1,5 +1,5 @@
 <h1 align="center">
-  ✨ 🐲🐉 𝗗𝗥. 𝗞𝗜𝗟𝗟𝗬 💘💔 DRM bot ✨
+ @DOCTOR_JB
 </h1>
 
 <p align="center">
@@ -58,4 +58,4 @@
 
 ---
 
-> 👨‍💻 Created with ❤️ by [https://www.youtube.com/@dr-sameershaikh)
+> 👨‍💻 Created with ❤️ by https://whatsapp.com/channel/0029VbAVCvWC6Zvd0TqAz03g
